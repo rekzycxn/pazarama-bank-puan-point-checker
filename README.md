@@ -1,4 +1,4 @@
-# 🏪 Pazaramalternatif Puan Checker
+# 🏪 Pazarama Puan Checker
 
 Bu araç **Pazarama.com** üzerinden **MaxiPuan** ve **PazaramaPuan** bilgilerini kontrol eder ve **Discord**'a bildirir.
 
